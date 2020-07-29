@@ -1,0 +1,16 @@
+.main-div{
+    background-color: green;
+    width: 1000px;
+    height: 600px;
+    position: relative;
+}
+
+.small-div{
+    background-color: red;
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    top: 164px;
+    left: 348px;
+    border-radius: 50%;
+}
